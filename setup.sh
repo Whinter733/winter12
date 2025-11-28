@@ -20,11 +20,10 @@ wget -O /sdcard/Download/moveye.py "https://raw.githubusercontent.com/Whinter733
 chmod +x /sdcard/Download/moveye.py
 
 echo "========================================"
-echo "▶️ MENJALANKAN SCRIPT"
-echo "========================================"
-
-tsu -c "python /sdcard/Download/moveye.py"
-
-echo "========================================"
-echo '✅ SETUP + EKSEKUSI SELESAI'
+echo "✅ SETUP SELESAI"
+echo "Sekarang jalankan perintah berikut:"
+echo
+echo "  tsu"
+echo "  python /sdcard/Download/moveye.py"
+echo
 echo "========================================"
